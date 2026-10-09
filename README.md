@@ -34,7 +34,7 @@ Brings an interactive, morphing **Dynamic Island** status bar to Omarchy (Quicks
 You can install this plugin directly using Omarchy's built-in plugin manager:
 
 ```bash
-omarchy plugin add <YOUR-GITHUB-REPO-URL> --enable --yes
+omarchy plugin add https://github.com/codethug-tech/omarchy-island.git --enable --yes
 omarchy restart shell
 ```
 
@@ -43,7 +43,7 @@ omarchy restart shell
 Alternatively, clone directly into your Omarchy plugins folder:
 
 ```bash
-git clone <YOUR-GITHUB-REPO-URL> ~/.config/omarchy/plugins/sandeepbist.modesty-island
+git clone https://github.com/codethug-tech/omarchy-island.git ~/.config/omarchy/plugins/sandeepbist.modesty-island
 omarchy shell rescanPlugins
 omarchy plugin enable sandeepbist.modesty-island
 omarchy restart shell
