@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "sandeepbist.modesty-island",
+  "name": "Modesty Dynamic Island",
+  "version": "1.0.0",
+  "author": "sandeepbist",
+  "license": "GPL-3.0",
+  "description": "Quickshell dynamic island bar with expandable media, live synced lyrics, clock/calendar, and control center pills ported for Omarchy.",
+  "kinds": [
+    "bar"
+  ],
+  "entryPoints": {
+    "bar": "Bar.qml"
+  }
+}

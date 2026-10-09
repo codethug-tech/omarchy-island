@@ -1,0 +1,36 @@
+module services
+singleton Activities 1.0 Activities.qml
+singleton AgentWork 1.0 AgentWork.qml
+singleton Apps 1.0 Apps.qml
+singleton Audio 1.0 Audio.qml
+singleton Authorization 1.0 Authorization.qml
+singleton Bindings 1.0 Bindings.qml
+singleton CanvasState 1.0 CanvasState.qml
+singleton Context 1.0 Context.qml
+singleton ControlLayout 1.0 ControlLayout.qml
+singleton DeviceStatus 1.0 DeviceStatus.qml
+singleton Display 1.0 Display.qml
+singleton FocusTimer 1.0 FocusTimer.qml
+singleton Hints 1.0 Hints.qml
+singleton IslandDrop 1.0 IslandDrop.qml
+singleton IslandState 1.0 IslandState.qml
+singleton KeepAwake 1.0 KeepAwake.qml
+singleton Knowledge 1.0 Knowledge.qml
+singleton LiveMedia 1.0 LiveMedia.qml
+singleton Luma 1.0 Luma.qml
+singleton Media 1.0 Media.qml
+singleton Notifications 1.0 Notifications.qml
+singleton Preferences 1.0 Preferences.qml
+singleton Radio 1.0 Radio.qml
+singleton Recorder 1.0 Recorder.qml
+singleton Reminders 1.0 Reminders.qml
+singleton Session 1.0 Session.qml
+SessionIntegration 1.0 SessionIntegration.qml
+Shortcuts 1.0 Shortcuts.qml
+singleton Startup 1.0 Startup.qml
+singleton SystemInfo 1.0 SystemInfo.qml
+singleton Time 1.0 Time.qml
+singleton Tray 1.0 Tray.qml
+singleton Updates 1.0 Updates.qml
+singleton Voice 1.0 Voice.qml
+singleton Wireless 1.0 Wireless.qml
